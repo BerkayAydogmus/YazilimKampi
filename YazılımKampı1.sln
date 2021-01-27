@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{1045C927-9867-4B3F-91E2-71B8309631E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{7635DC1F-6C7A-4930-BDA0-A0C8EA0CBF1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{7635DC1F-6C7A-4930-BDA0-A0C8EA0CBF1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{BF906314-157B-465E-8865-BEC359237CC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{BF906314-157B-465E-8865-BEC359237CC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProjectEnginDemirog", "GameProjectEnginDemirog\GameProjectEnginDemirog.csproj", "{CE0CAAE4-30A3-4ABF-A7AE-DFA35620F801}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{BF906314-157B-465E-8865-BEC359237CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF906314-157B-465E-8865-BEC359237CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF906314-157B-465E-8865-BEC359237CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE0CAAE4-30A3-4ABF-A7AE-DFA35620F801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0CAAE4-30A3-4ABF-A7AE-DFA35620F801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0CAAE4-30A3-4ABF-A7AE-DFA35620F801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0CAAE4-30A3-4ABF-A7AE-DFA35620F801}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
